@@ -6,7 +6,6 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.1.0",
