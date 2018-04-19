@@ -19,3 +19,9 @@ npm start
 ```
 
 Files are compiled into /src
+
+### Just playing around with some code
+
+- dont' mind me
+- nothing special
+- my cool sandcube

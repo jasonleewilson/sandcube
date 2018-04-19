@@ -1,2 +1,91 @@
 // Main Sass File
 // Your variable overrides
+
+
+// test1
+// $gray-dark:    #333333 !default;
+// $gray-light:    #eeeeee !default;
+
+// $body-bg:    $gray-dark !default;
+// $body-color: $gray-light !default;
+
+// test2
+// $primaryColor:rgba(45, 2, 45, 0.33);
+// $textColor: #FFFFFF;
+
+// body {
+//   background: $primaryColor;
+//   color: $textColor;
+// }
+
+// test3
+// Your variable overrides
+// $body-bg: rgba(45, 2, 45, 0.33);
+$body-bg: rgba(0, 0, 0, 0.3);
+$body-color: #111;
+
+
+//$primary:        #ff0000;
+//$secondary:     rgba(45, 2, 45, 0.33);
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$linkcolour: #000;
+
+a {
+  color: $linkcolour;
+}
+
+a.lighter {
+  color: lighten($linkcolour, 50%);
+}
+
+
+
+
+$divcolor: #000;
+
+// col-lg-1 {
+//   color: $divcolor;
+// }
+
+div.lighter-12 {
+  background: lighten($divcolor, 8.33%);
+}
+
+div.lighter-11 {
+    background: lighten($divcolor, 16.66%);
+  }
+
+div.lighter-10 {
+    background: lighten($divcolor, 24.99%);
+}
+
+div.lighter-9 {
+    background: lighten($divcolor, 33.32%);
+}
+div.lighter-8 {
+    background: lighten($divcolor, 41.65%);
+}
+div.lighter-7 {
+    background: lighten($divcolor, 49.98%);
+}
+div.lighter-6 {
+    background: lighten($divcolor, 58.31%);
+}
+div.lighter-5 {
+    background: lighten($divcolor, 66.64%);
+}
+div.lighter-4 {
+    background: lighten($divcolor, 74.97%);
+}
+div.lighter-3 {
+    background: lighten($divcolor, 83.33%);
+}
+div.lighter-2 {
+    background: lighten($divcolor, 91.63%);
+}
+div.lighter-1 {
+    background: lighten($divcolor, 100%);
+}
