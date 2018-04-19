@@ -1,4 +1,4 @@
-# Bootstrap 4 Starter Pack (4.1.0)
+# SandCube - Another playground, like sandbox ;)
 
 Includes complete Bootstrap 4.1.0 dev environment with gulp and sass
 
