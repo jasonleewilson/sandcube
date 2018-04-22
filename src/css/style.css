@@ -2,11 +2,8 @@ body {
   padding-top: 80px; }
 
 footer {
-  height: 200px; }
-
-section {
-  padding: 150px 0;
-  outline: red solid 1px; }
+  height: 407px;
+  background: url("../img/bg-1.png") no-repeat bottom center; }
 
 section#hero {
   padding: 150px 0 160px 0; }
