@@ -18,19 +18,27 @@
 //   color: $textColor;
 // }
 
-$body-bg: rgba(0, 0, 0, 0.3);
+$body-bg: #fff;
+// $body-bg: rgba(0, 0, 0, 0.3);
 $body-color: #fff;
-//$body-bg-image: url('../img/bg-1.svg') no-repeat top center;
+$body-bg-image: url('../img/bg-main.jpg') no-repeat top center;
 $primary:#ff0000;
 $secondary:rgba(45, 2, 45, 0.33);
 
 body {
-  //background: $body-bg-image;
+  background: $body-bg-image;
   padding-top: 80px;
 }
-footer {height: 200px;}
+#footer {
+    height: 1024px;
+    background: url('../img/footer-both.svg') no-repeat bottom center;
+    background-size: contain;
+}
 
-section {padding: 150px 0; outline: red solid 1px;}
+section {
+    padding: 150px 0;
+    // outline: red solid 1px;
+}
 
 section#hero{padding: 150px 0 160px 0;}
 
