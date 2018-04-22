@@ -2,11 +2,6 @@ body {
   background: url("../img/bg-main.jpg") no-repeat top center;
   padding-top: 80px; }
 
-<<<<<<< HEAD
-footer {
-  height: 407px;
-  background: url("../img/bg-1.png") no-repeat bottom center; }
-=======
 #footer {
   height: 1024px;
   background: url("../img/footer-both.svg") no-repeat bottom center;
@@ -14,7 +9,6 @@ footer {
 
 section {
   padding: 150px 0; }
->>>>>>> gh-pages
 
 section#hero {
   padding: 150px 0 160px 0; }
