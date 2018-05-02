@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1024px" viewBox="0 0 1920 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="92.2776344%" y1="92.5220778%" x2="76.945492%" y2="54.3696473%" id="linearGradient-1">
+            <stop stop-color="#180000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="Helvetica-Bold, Helvetica" font-size="244" font-weight="bold" fill-opacity="0.188117428" fill="#000000">
+            <tspan x="1348.56701" y="761">03</tspan>
+        </text>
+        <filter x="-3.5%" y="-6.1%" width="114.0%" height="124.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="33" dy="33" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy">
+            <g id="Group">
+                <polygon id="Rectangle" fill="#D0021B" points="1.13686838e-13 612 263.678973 421.378081 1858 0 1434 318.5 269.810594 431.944415 15.9422151 612 691.666132 795.630834 1830 1024 1.13686838e-13 1024"></polygon>
+                <polygon id="Rectangle-2" fill="url(#linearGradient-1)" points="1920 1024 1920 0 869.5 742 51 608 717 784"></polygon>
+                <g id="03" opacity="0.155287591" fill-opacity="0.188117428" fill="#000000">
+                    <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                    <use xlink:href="#text-2"></use>
+                </g>
+                <text id="Cum-sociis-natoque-p" transform="translate(728.268185, 457.000000) rotate(-6.000000) translate(-728.268185, -457.000000) " font-family="Helvetica-Bold, Helvetica" font-size="8" font-weight="bold" fill-opacity="0.188117428" fill="#000000">
+                    <tspan x="492.555902" y="445">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget </tspan>
+                    <tspan x="480.481683" y="455">metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at </tspan>
+                    <tspan x="474.337152" y="465">eros. Donec ullamcorper nulla non metus auctor fringilla. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, </tspan>
+                    <tspan x="599.200433" y="475">ut fermentum massa justo sit amet risus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
